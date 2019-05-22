@@ -1,0 +1,13 @@
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\Kyrsova.exe
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\Kyrsova.pdb
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\LiteDB.dll
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\LiteDB.xml
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csprojAssemblyReference.cache
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\obj\Debug\Kyrsova.exe
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\obj\Debug\Kyrsova.pdb
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\Nancy.dll
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\Nancy.Hosting.Self.dll
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\Nancy.xml
+D:\Reveta\prog\projects\Reveta\Kyrsova\Kyrsova\Kyrsova\bin\Debug\Nancy.Hosting.Self.xml
